@@ -1,7 +1,11 @@
 # Goals
-- [ ] Show Code
-- [ ] Text Explanation for each section code review
-- [ ] Video code review
+1. [ ] Show Code
+2. [ ] Text Explanation for each section of code, giving each block a coolness factor
+3. [ ] Video going through the code
+
+Why do it like this?
+To make it more accessible and practice on making good presentations
+https://x.com/karpathy/status/1760388761349927356
 
 # TODOs
 - [ ] Charts (real-time and interval based), echarts
@@ -22,4 +26,5 @@
 - [ ] Designing websites (Probably look into ogilvy)
 - [ ] Jenkins deployment of docker
 - [ ] Jupyter or R notebook example of analysing data (kalman filters and fft example, financial analysis maybe?)
-- [ ] 
+- [ ] Desktop UI UX development
+- [ ] Matrix multiplication optimization fun
