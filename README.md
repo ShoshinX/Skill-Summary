@@ -19,7 +19,7 @@ https://x.com/karpathy/status/1760388761349927356
 - [ ] WT61C code
 - [ ] Mobile app push notifications, sensor readings, gps
 - [ ] Chat implementation (voice chat, text, images)
-- [ ] s3 compatible multimedia (minio)
+- [ ] s3 compatible multimedia (minio, seaweedfs, ceph)
 - [ ] PubSub queues (MQTT, Rabbitmq, Kafka)
 - [ ] monitoring, alert of architecture (zabbix, elasticsearch, prometheus, supervisors), handle triggering of alerts and events using buttons
 - [ ] AI classification of cars, speed, violation and congestion level
@@ -28,3 +28,4 @@ https://x.com/karpathy/status/1760388761349927356
 - [ ] Jupyter or R notebook example of analysing data (kalman filters and fft example, financial analysis maybe?)
 - [ ] Desktop UI UX development
 - [ ] Matrix multiplication optimization fun
+- [ ] ML Yolov11 new classes training
