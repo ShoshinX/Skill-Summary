@@ -4,7 +4,7 @@
 3. [ ] Video going through the code
 
 Why do it like this?
-To make it more accessible and practice on making good presentations
+To make it more accessible and practice on making good presentations. I'm bored.
 https://x.com/karpathy/status/1760388761349927356
 
 # TODOs
@@ -29,3 +29,5 @@ https://x.com/karpathy/status/1760388761349927356
 - [ ] Desktop UI UX development
 - [ ] Matrix multiplication optimization fun
 - [ ] ML Yolov11 new classes training
+- [ ] Postgresql pipelining
+- [ ] C stuff: arena allocation, multi thread by default kinda application. (we have a lotta cores, lmao)
