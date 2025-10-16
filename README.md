@@ -31,3 +31,4 @@ https://x.com/karpathy/status/1760388761349927356
 - [ ] ML Yolov11 new classes training
 - [ ] Postgresql pipelining
 - [ ] C stuff: arena allocation, multi thread by default kinda application. (we have a lotta cores, lmao)
+- [ ] image labeler in C, goal: fast, keyboard, file explorer, vllm
